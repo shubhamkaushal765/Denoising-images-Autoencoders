@@ -21,8 +21,8 @@ Developing Autoencoders
 
 Final Model <br>
 Optimizer: RMSprop (based on the loss parameter, binary_crossentropy) <br>
-Epochs = 10, loss = 0.134, val_loss = 0.144
-
+Epochs = 10, loss = 0.134, val_loss = 0.144 <br>
+For more improvements, one can try getting more training data, data augmentation, building more complex/deeper models or try other optimizers.
 <!-- 
 For more improvements <br>
 <ul>
