@@ -23,10 +23,11 @@ Final Model <br>
 Optimizer: RMSprop (based on the loss parameter, binary_crossentropy) <br>
 Epochs = 10, loss = 0.134, val_loss = 0.144
 
-/*For more improvements <br>
+<!-- 
+For more improvements <br>
 <ul>
   <li>More Training data
   <li>Data Augmentation
   <li>More complex/deeper model
   <li>Other Optimizers
-*/
+-->
